@@ -98,20 +98,6 @@ RESPONSIVIDADE:
 - Mobile (até 767px)
 - Breakpoints do Bootstrap 5
 
-OTIMIZAÇÕES:
-- Imagens em formato WebP
-- CSS minificado e otimizado
-- JavaScript modular e eficiente
-- Fontes carregadas localmente
-- Performance otimizada
-
-COMO USAR:
-1. Extrair o arquivo normaengtec-html-site.tar.gz
-2. Abrir index.html em qualquer navegador
-3. Para servidor local: usar qualquer servidor HTTP
-   - Python: python3 -m http.server 8080
-   - Node.js: npx serve .
-   - PHP: php -S localhost:8080
 
 COMPATIBILIDADE:
 - Chrome 90+
@@ -120,16 +106,5 @@ COMPATIBILIDADE:
 - Edge 90+
 - Mobile browsers
 
-CONTACTOS DA EMPRESA:
-- Email: leonara.marques@normaengetec.com.br
-- Email: kleber.leao@normaengetec.com.br
-- Endereço: Rua Maria Roza de Campos, Jardim Santa Paula, Guarulhos/SP
-
-DIFERENÇAS DA VERSÃO REACT:
-- Sem dependências de Node.js
-- Carregamento mais rápido
-- Mais fácil de hospedar
-- Código mais simples
-- Mesma funcionalidade
 
 Data de criação: Julho 2025
